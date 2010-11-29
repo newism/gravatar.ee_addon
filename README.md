@@ -1,3 +1,5 @@
+_This is a Fork of https://github.com/philipzaengle/gravatar.ee\_addon which makes adding Gravatars as a submodule much easier._
+
 ### The EE Gravatar Plugin allows you to easily insert a "globally recognized avatar" image from Gravatar (http://www.gravatar.com/).
 
 This plugin requires at a bare minimum one of two possible parameters depending on where you wish to use it. The first option is a user's email address {email} and the second option is a user's screen name {name}. The reason for this is so the plugin can be used in situations where one or the other parameter won't return the proper result. It is recommended that you use {email} for comment and entry loops and {name} for display in member profile templates, but feel free to experiment. Here's the two minimum required uses:
